@@ -1,0 +1,37 @@
+[
+    {
+        "id": 1,
+        "name": "Imanol Asolo",
+        "role": "Tecnico IT",
+        "feedback": "Podria ser mejor en cuanto a la calidad de video",
+        "timestamp": "2024-10-03 14:23:07"
+    },
+    {
+        "id": 2,
+        "name": "Violeta Moran",
+        "role": "Desarrollador junior",
+        "feedback": "El profesor fue esplendido\n",
+        "timestamp": "2024-10-03 14:26:39"
+    },
+    {
+        "id": 3,
+        "name": "Ilargi Asolo",
+        "role": "Tecnico SAP",
+        "feedback": "El profesor fue una desgracia",
+        "timestamp": "2024-10-03 14:31:55"
+    },
+    {
+        "id": 4,
+        "name": "Kicker Addams",
+        "role": "Tecnico surfing",
+        "feedback": "Los videos y contenido del curso de gestion de incidentes y soporte tecnico fueron muy instructivos.",
+        "timestamp": "2024-10-03 14:44:37"
+    },
+    {
+        "id": 5,
+        "name": "Charles Rangnick",
+        "role": "Soporte servidores II",
+        "feedback": "Fueron pocos cursos",
+        "timestamp": "2024-10-03 15:00:39"
+    }
+]
